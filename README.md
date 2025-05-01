@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst & Data Scientist • New York, USA</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jenifercecilia&style=flat-square&label=Profile+Views" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jeniferseciliya&style=flat-square&label=Profile+Views" alt="profile views"/>
   <a href="mailto:jenifercecilia010@gmail.com">
     <img src="https://img.shields.io/badge/Email-jenifercecilia010%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email badge"/>
   </a>
@@ -14,12 +14,11 @@
 ---
 
 ### 📝 About Me
-* 🎓 **M.S. in Data Science** (GPA 3.76) — *Harrisburg University of Science & Technology, Feb 2025* :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}  
+* 🎓 **M.S. in Data Science** (GPA 3.76) — *Harrisburg University of Science & Technology, Feb 2025*  
 * 🔭 **Latest role:** Data Analyst @ **Verizon – Best Wireless** (Mar 2024 – Feb 2025)  
-  * Built interactive Power BI dashboards, automated SQL-driven reports, and cut chargeback-related inefficiencies by 10 %. :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}  
-* 🛠️ Love turning messy data into clear insight with **Python, SQL, Power BI, Tableau & ML**.  
-* 💬 Ask me about EDA, forecasting, model evaluation, or how to make stakeholders care about the numbers.  
-* 🌱 Currently expanding skills in **NLP** & cloud-native data pipelines.  
+  * Built interactive Power BI dashboards, automated SQL-driven reports, and cut charge-back-related inefficiencies by 10 %.  
+* 🛠️ I turn messy data into clear insight with **Python, SQL, Power BI, Tableau & ML**.  
+* 🌱 Currently exploring **NLP** and cloud–native data pipelines.
 
 ---
 
@@ -32,36 +31,32 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 
 ---
 
 ### 📂 Featured Projects
 | Project | TL;DR | Tech |
 |---------|-------|------|
-| **Social Media & Mental Health Analysis** | EDA + ML to quantify the link between usage patterns & anxiety/depression. | Python, SQL, Random Forest, SVM :contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5} |
-| **USA Accidents Prediction** | Linear regression model forecasting roadway accidents. | Python, SQL :contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7} |
-| **Layoffs Detection** | Real-time R-based system predicting workforce reductions from key signals. | R, Shiny :contentReference[oaicite:8]{index=8}&#8203;:contentReference[oaicite:9]{index=9} |
-| **House Price Prediction** | Regression ensemble improving valuation accuracy. | Python, scikit-learn :contentReference[oaicite:10]{index=10}&#8203;:contentReference[oaicite:11]{index=11} |
-| **Brain Tumor Detection** | K-means clustering for MRI segmentation. | Python, OpenCV :contentReference[oaicite:12]{index=12}&#8203;:contentReference[oaicite:13]{index=13} |
-
-> 🔗 *Repo links coming soon—stay tuned!*
+| **Social Media & Mental Health Analysis** | Quantified link between usage patterns & anxiety/depression. | Python, SQL, Random Forest, SVM |
+| **USA Accidents Prediction** | Linear regression model forecasting roadway accidents. | Python, SQL |
+| **Layoffs Detection** | Real-time R system predicting workforce reductions. | R, Shiny |
+| **House Price Prediction** | Ensemble model improving valuation accuracy. | Python, scikit-learn |
+| **Brain Tumor Detection** | K-means clustering for MRI segmentation. | Python, OpenCV |
 
 ---
 
 ### 🏆 Certifications & Awards
 * **Deep Learning Specialization – Coursera**  
 * **Data Science in Python – Besant Technologies**  
-* District-level 1st Prize: *Tsunami Prediction Tool* :contentReference[oaicite:14]{index=14}&#8203;:contentReference[oaicite:15]{index=15}  
+* 1st Prize, District-level *Tsunami Prediction Tool* science exhibition  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenifercecilia&show_icons=true&theme=default" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeniferseciliya&show_icons=true" alt="GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifercecilia&layout=compact&hide=jupyter%20notebook" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniferseciliya&layout=compact&hide=jupyter%20notebook" alt="Top languages"/>
 </p>
 
 ---
@@ -71,4 +66,3 @@
 * **LinkedIn:** [jenifercecilia0808](https://www.linkedin.com/in/jenifercecilia0808/)  
 
 *Always happy to collaborate on data-driven projects, open-source analytics tools, or hackathons—drop a line!*
-
